@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="quartz-manager-starter-persistence" />
+        <module name="quartz-manager-web-showcase" />
+        <module name="quartz-manager-starter-api" />
+        <module name="quartz-manager-starter-ui" />
+        <module name="quartz-manager-starter-security" />
+        <module name="quartz-manager-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="quartz-manager-common" target="9" />
+      <module name="quartz-manager-parent" target="9" />
+      <module name="quartz-manager-starter-api" target="17" />
+      <module name="quartz-manager-starter-persistence" target="17" />
+      <module name="quartz-manager-starter-security" target="17" />
+      <module name="quartz-manager-starter-ui" target="17" />
+      <module name="quartz-manager-web-showcase" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="quartz-manager-common" options="-parameters" />
+      <module name="quartz-manager-parent" options="-parameters" />
+      <module name="quartz-manager-starter-api" options="-parameters" />
+      <module name="quartz-manager-starter-persistence" options="-parameters" />
+      <module name="quartz-manager-starter-security" options="-parameters" />
+      <module name="quartz-manager-starter-ui" options="-parameters" />
+      <module name="quartz-manager-web-showcase" options="-parameters" />
+    </option>
+  </component>
+</project>

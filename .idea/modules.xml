@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Quartz-manager.iml" filepath="$PROJECT_DIR$/.idea/Quartz-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-manager-parent/quartz-manager-common/quartz-manager-common.iml" filepath="$PROJECT_DIR$/quartz-manager-parent/quartz-manager-common/quartz-manager-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-manager-parent/quartz-manager-parent.iml" filepath="$PROJECT_DIR$/quartz-manager-parent/quartz-manager-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-manager-parent/quartz-manager-starter-api/quartz-manager-starter-api.iml" filepath="$PROJECT_DIR$/quartz-manager-parent/quartz-manager-starter-api/quartz-manager-starter-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-manager-parent/quartz-manager-starter-persistence/quartz-manager-starter-persistence.iml" filepath="$PROJECT_DIR$/quartz-manager-parent/quartz-manager-starter-persistence/quartz-manager-starter-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-manager-parent/quartz-manager-starter-security/quartz-manager-starter-security.iml" filepath="$PROJECT_DIR$/quartz-manager-parent/quartz-manager-starter-security/quartz-manager-starter-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-manager-parent/quartz-manager-starter-ui/quartz-manager-starter-ui.iml" filepath="$PROJECT_DIR$/quartz-manager-parent/quartz-manager-starter-ui/quartz-manager-starter-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-manager-parent/quartz-manager-web-showcase/quartz-manager-web-showcase.iml" filepath="$PROJECT_DIR$/quartz-manager-parent/quartz-manager-web-showcase/quartz-manager-web-showcase.iml" />
+    </modules>
+  </component>
+</project>
